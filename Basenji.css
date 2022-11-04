@@ -1,0 +1,170 @@
+    .first {
+        background-color: #1f2937;
+        color: white;
+        padding: 30px;
+        
+        
+    }
+        .header-section {
+            display: flex;
+            padding: auto;
+        
+        }
+        .header-1 img {
+            flex: 1;
+            width: 84px;
+            height: 84px;
+            padding: auto;
+        }
+
+        .header-2 {
+           flex: 1;
+           text-align: right;
+           padding: auto;
+           color: #9cbce9;
+           font-size: 26px;
+           
+        }
+
+        .content-1 {
+            display: flex;
+            padding: auto;
+            line-height: 3;
+        }
+        .sub-header-1 {
+            padding: auto;
+            font-size: 30px;
+            
+            
+        }
+        .sub-content-1 {
+            flex: 2;
+            text-align: left;
+            
+        }
+
+        .text-1 {
+            padding: auto;
+        }
+
+        .button {
+            background-color: #3882f6;
+            padding: 20px;
+            color: white;
+            border-radius: 15px white;
+        }
+            
+        .sub-content-2 {
+            flex: 1;
+            text-align: right;
+            padding: auto;
+            text-align: center;
+            
+        }
+    
+    .second {
+        background-color: white;
+        color: black;
+        padding: 10px;
+    }
+
+        .header-s1 {
+            text-align: center;
+            font-size: large;
+            padding: inherit;
+        }
+        
+        .content-s1 {
+            display: flex;
+            
+                        
+        }
+        .sub-content-s1 {
+            padding: auto;
+        }
+
+        img {
+            border-radius: 8px;
+        }
+
+        .sub-content-s1, .sub-content-s2, .sub-content-s3 {
+            float: left;
+            width: 33,33%;
+            margin-left: auto;
+            margin-right: auto;
+                   
+        }
+
+        p {
+            text-align: center;
+        }
+    .third {
+        background-color: #e5e7eb;
+        padding-left: 50px;
+    }
+        .header-t1 {
+            text-align: center;
+            padding-bottom: 10px;
+            padding-top: 10px;
+        }
+    .fourth {
+        padding: 30px;
+    }
+
+        .box-f1 {
+            
+            width: 70%;
+            height: 200px;
+            background-color: #3882f6;
+            margin: auto;
+            display: flex;
+            padding: 0 100px;
+            color: white;
+                     
+            
+        }
+
+        .button-1 {
+            border-radius: 15px white;
+            background-color: #3882f6;
+            padding: 20px;
+            color: white;
+            
+            
+        }
+        
+
+        .content-f1 {
+            flex: 2;
+            padding-top: 50px;
+        }
+            
+        .text-f1 {
+           
+            text-align: left;
+        }
+        
+
+        .header-f1 {
+            padding: auto;
+        }
+
+        .content-f2 {
+            flex: 1;
+            text-align: right;
+            padding: 50px 50px;
+                      
+        }
+    .last {
+        background-color: #1f2937;
+        color: white;
+        padding: 10px;
+        
+        
+    }
+
+    .text-l1 {
+        text-align: center;
+        
+    }
+
